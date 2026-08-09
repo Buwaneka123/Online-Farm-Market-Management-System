@@ -1,0 +1,4 @@
+Farmer: Nimal
+rice | Price: 110.0 | Quantity: 100
+coconut | Price: 110.0 | Quantity: 100
+--------------------------------------

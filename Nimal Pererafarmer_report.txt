@@ -1,0 +1,5 @@
+Farmer: Nimal Perera
+apple12 | Price: 120.0 | Quantity: 12
+apple | Price: 120.0 | Quantity: 12
+water | Price: 199.0 | Quantity: 12
+--------------------------------------

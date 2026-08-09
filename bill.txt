@@ -1,0 +1,21 @@
+Customer: Nawan
+Farmer: Saman
+Product: doh
+Quantity: 19
+Total Price: 1900.0
+Total Price After Discount: 1710.0
+--------------------------------------
+Customer: Pawan
+Farmer: Nimal
+Product: sss
+Quantity: 100
+Total Price: 1000.0
+Total Price After Discount: 900.0
+--------------------------------------
+Customer: sha
+Farmer: Nimal Perera
+Product: apple
+Quantity: 10
+Total Price: 1200.0
+Total Price After Discount: 1056.0
+--------------------------------------

@@ -1,0 +1,5 @@
+Farmer: Janaka
+apple | Price: 120.0 | Quantity: 20
+mango | Price: 80.0 | Quantity: 20
+banana | Price: 80.0 | Quantity: 20
+--------------------------------------
